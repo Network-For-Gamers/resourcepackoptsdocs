@@ -53,3 +53,74 @@ A number box follows the same principle as a boolean: `"entryName": DefaultNumbe
 ```
 ### Result:
 ![configExampleNumber](https://github.com/Network-For-Gamers/resourcepackoptsdocs/blob/main/img/ExamplePackNumber.PNG?raw=true "ConfigExampleNumber")
+
+## Adding a slider
+A slider is slightly more complicated as a minimum and a maximum need to be defined. Sliders also only support whole numbers.
+
+### Example:
+```json
+{
+    "id": "ExamplePack",
+    "version": 4,
+    "conf": {
+        "SomeOption": {
+            "min": 0,
+            "default": 5,
+            "max": 10
+        }
+    }
+}
+```
+### Result:
+
+
+## Select From a list
+To allow users to select one entry from a list, you can use a json array with string entries. *Numbers/etc are not supported*
+
+### Example:
+```json
+{
+    "id": "ExamplePack",
+    "version": 4,
+    "conf": {
+        "SomeOption": [
+            "option_one",
+            "option_two",
+            "option_three"
+        ]
+    }
+}
+```
+### Result:
+
+
+## Make a category
+
+### Example:
+```json
+{
+    "id": "ExamplePack",
+    "version": 4,
+    "conf": {
+        "SomeCategory": {
+            "SomeBoleanOption": true,
+            "SomeNumberOption": 5,
+            "SomeSelectionOption": [
+                "option_one",
+                "option_two",
+                "option_three"
+           ],
+            "SomeSliderOption": {
+                "min": 0,
+                "default": 5,
+                "max": 10
+            }
+        },
+        "SomeotherCategory": {
+            "SomeOtherBoleanOption": true,
+            "SomeOtherNumberOption": 5,
+        }
+    }
+}
+```
+### Result:
