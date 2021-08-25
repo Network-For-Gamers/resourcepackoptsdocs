@@ -2,6 +2,10 @@
 
 Here is everythig you need to know about configuring your resource with resourcepackopts.
 
+### Downloads
+- **Moderinth:** https://modrinth.com/mod/respackopts
+- **CurseForge:** https://www.curseforge.com/minecraft/mc-mods/respackopts
+
 
 ### Compatibility
 
