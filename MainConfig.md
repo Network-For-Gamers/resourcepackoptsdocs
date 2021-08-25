@@ -32,6 +32,10 @@ To add a boolean entry, add code like this: `"entryName": <Default Option (true/
     }
 }
 ```
+### Result
+![configExample](https://github.com/Network-For-Gamers/resourcepackoptsdocs/blob/main/img/ExamplePackBoolean.PNG?raw=true "ConfigExample")
+
+
 
 ## Adding a Free Number Box
 
