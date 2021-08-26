@@ -10,12 +10,21 @@
 ```json
 {
     "id": "<PackID>",
-    "version": 4,
+    "version": 5,
+    "capabilities": ["FileFilter", "DirFilter"],
     "conf": {
         // Your config options here
     }
 }
 ```
+
+### Capabilities:
+
+> **FileFilter:** (Default Enabled) <br> If stated will enable file filtering functionality.
+
+> **DirFilter:** (Default Disabled) <br> If stated will enable folder filtering functionality.
+
+> **DirFilterAdditive:** (Default Disabled) <br> If stated this will enable a compatibility fix for some mods that also modify resources.
 
 ## Adding a Toggle/Boolean
 
@@ -25,7 +34,8 @@ To add a boolean entry, add code like this: `"EntryName": <Default Option (true/
 ```json
 {
     "id": "ExamplePack",
-    "version": 4,
+    "version": 5,
+    "capabilities": ["FileFilter", "DirFilter"],
     "conf": {
         "SomeTexture": true,
         "SomeOtherTexture": false
@@ -45,7 +55,8 @@ A number box follows the same principle as a boolean: `"entryName": DefaultNumbe
 ```json
 {
     "id": "ExamplePack",
-    "version": 4,
+    "version": 5,
+    "capabilities": ["FileFilter", "DirFilter"],
     "conf": {
         "SomeOption": 10
     }
@@ -61,7 +72,8 @@ A slider is slightly more complicated as a minimum and a maximum need to be defi
 ```json
 {
     "id": "ExamplePack",
-    "version": 4,
+    "version": 5,
+    "capabilities": ["FileFilter", "DirFilter"],
     "conf": {
         "SomeOption": {
             "min": 0,
@@ -81,7 +93,8 @@ To allow users to select one entry from a list, you can use a json array with st
 ```json
 {
     "id": "ExamplePack",
-    "version": 4,
+    "version": 5,
+    "capabilities": ["FileFilter", "DirFilter"],
     "conf": {
         "SomeOption": [
             "option_one",
@@ -100,7 +113,8 @@ To allow users to select one entry from a list, you can use a json array with st
 ```json
 {
     "id": "ExamplePack",
-    "version": 4,
+    "version": 5,
+    "capabilities": ["FileFilter", "DirFilter"],
     "conf": {
         "SomeCategory": {
             "SomeBoleanOption": true,
