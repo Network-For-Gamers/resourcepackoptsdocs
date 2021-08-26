@@ -16,6 +16,6 @@ Here is everythig you need to know about configuring your resource with resource
 ### Index
 
 - [Main Config](https://github.com/Network-For-Gamers/resourcepackoptsdocs/blob/main/MainConfig.md)
-- [File Toggle](https://github.com/Network-For-Gamers/resourcepackoptsdocs/filetoggle.md)
+- [File Toggle](https://github.com/Network-For-Gamers/resourcepackoptsdocs/blob/main/ToggleFiles.md)
 - [Fallback textures](https://github.com/Network-For-Gamers/resourcepackoptsdocs/fallbacks.md)
 - [Canvas](https://github.com/Network-For-Gamers/resourcepackoptsdocs/filetoggle.md)
