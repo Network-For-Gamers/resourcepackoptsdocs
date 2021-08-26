@@ -35,7 +35,7 @@ To add a boolean entry, add code like this: `"entryName": <Default Option (true/
 ### Result:
 ![configExampleBolean](https://github.com/Network-For-Gamers/resourcepackoptsdocs/blob/main/img/ExamplePackBoolean.PNG?raw=true "ConfigExampleBolean")
 
-
+### See [Togglefiles](google.com) to see the logic behind this
 
 ## Adding a Free Number Box
 A number box follows the same principle as a boolean: `"entryName": DefaultNumber`
