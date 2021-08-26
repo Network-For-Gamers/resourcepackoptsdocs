@@ -63,7 +63,7 @@ A number box follows the same principle as a boolean: `"entryName": DefaultNumbe
 }
 ```
 ### Result:
-![configExampleNumber](https://github.com/Network-For-Gamers/resourcepackoptsdocs/blob/main/img/ExamplePackNumber.PNG?raw=true "ConfigExampleNumber")
+![configExampleNumber](./img/ExamplePackNumber.PNG?raw=true "ConfigExampleNumber")
 
 ## Adding a slider
 A slider is slightly more complicated as a minimum and a maximum need to be defined. Sliders also only support whole numbers.
