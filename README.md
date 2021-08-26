@@ -1,4 +1,4 @@
-# ResourcePackOpts Home
+# ResPackOpts Home
 
 Here is everythig you need to know about configuring your resource with resourcepackopts.
 
