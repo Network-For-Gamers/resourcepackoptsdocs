@@ -17,7 +17,7 @@ You will need to navigate to the file you would like to toggle inside your resou
     "conditions": [
         "<your pack id>:<your entry>"
     ],
-    "fallback": "location/of/the/file"
+    "fallbacks": "location/of/the/file"
 }
 ```
 ### Example:
@@ -26,7 +26,7 @@ You will need to navigate to the file you would like to toggle inside your resou
     "conditions": [
         "ExamplePack:Texture"
     ],
-    "fallback": "assets/respackopts/examplealternatefiles/SomeTexture.json"
+    "fallbacks": "assets/respackopts/examplealternatefiles/SomeTexture.json"
 }
 ```
 ---
