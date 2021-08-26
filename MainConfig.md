@@ -19,7 +19,7 @@
 
 ## Adding a Toggle/Boolean
 
-To add a boolean entry, add code like this: `"entryName": <Default Option (true/false)>` 
+To add a boolean entry, add code like this: `"EntryName": <Default Option (true/false)>` 
 
 ### Example:
 ```json
