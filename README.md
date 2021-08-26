@@ -25,7 +25,7 @@ Here is everythig you need to know about configuring your resource with resource
 | Bolean fallback files | ✅ |
 | slider configs | ✅ |
 | number input configuration | ✅ |
-| If not,AND,OR Operations | ✅ |
+| If not,And,Or, Nor, Xor, Eq Operations | ✅ |
 | Scripting using [Starscript](https://github.com/MeteorDevelopment/starscript/wiki) | ✅ |
 | Directory handling | 🔄 |
 
