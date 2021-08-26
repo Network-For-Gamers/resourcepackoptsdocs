@@ -23,7 +23,7 @@ You will need to navigate to the file you would like to toggle inside your resou
 ```json
 {
     "conditions": [
-        "ExamplePack:Texture"
+        "ExamplePack:SomeTexture"
     ]
 }
 ```
