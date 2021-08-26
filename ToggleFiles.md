@@ -29,4 +29,4 @@ You will need to navigate to the file you would like to toggle inside your resou
 ```
 ---
 
-### See [Toggle Files With Fallback](https://github.com/Network-For-Gamers/resourcepackoptsdocs/blob/main/ToggleFileswithFallback.md) to see how to swap textures out with each other (alternate Options)
+### See [Toggle Files With Fallback](https://github.com/Network-For-Gamers/resourcepackoptsdocs/blob/main/ToggleFilesWithFallback.md) to see how to swap textures out with each other (alternate Options)
