@@ -20,7 +20,7 @@ You will need the `PackID` and `EntryName` from your `/assets/respackopts/conf.j
     ]
 }
 ```
-## example
+## Example
 ```json
 {
     "conditions": [
