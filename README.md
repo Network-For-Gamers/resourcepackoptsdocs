@@ -11,10 +11,6 @@ Here is everythig you need to know about configuring your resource with resource
 - [LibJF](https://modrinth.com/mod/libjf)
 - [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu){Optional}
 
-- Canvas Shaders
-- Resource Packs
-- DataPacks
-
 ### Compatibility
 
 - Canvas Shaders
