@@ -13,6 +13,18 @@ Here is everythig you need to know about configuring your resource with resource
 - Resource Packs
 - DataPacks
 
+### Features
+
+| Feature               | Status |
+| --------------------- | ------ |
+| Bolean Based Toggle | ✅ |
+| Bolean fallback files | ✅ |
+| slider configs | ✅ |
+| number input configuration | ✅ |
+| If not,AND,OR Operations | ✅ |
+| Scripting using [Starscript](https://github.com/MeteorDevelopment/starscript/wiki) | ✅ |
+| Directory handling | 🔄 |
+
 ### Index
 
 - [Main Config](https://github.com/Network-For-Gamers/resourcepackoptsdocs/blob/main/MainConfig.md)
