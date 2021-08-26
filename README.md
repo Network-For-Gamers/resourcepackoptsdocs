@@ -33,4 +33,4 @@ Here is everythig you need to know about configuring your resource with resource
 
 - [Main Config](https://github.com/Network-For-Gamers/resourcepackoptsdocs/blob/main/MainConfig.md)
 - [File Toggle](https://github.com/Network-For-Gamers/resourcepackoptsdocs/blob/main/ToggleFiles.md)
-- [file toggle With Fallback](https://github.com/Network-For-Gamers/resourcepackoptsdocs/blob/main/ToggleFileswithFallback.md)
+- [File Toggle With Fallback](https://github.com/Network-For-Gamers/resourcepackoptsdocs/blob/main/ToggleFilesWithFallback.md)
