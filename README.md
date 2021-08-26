@@ -6,6 +6,14 @@ Here is everythig you need to know about configuring your resource with resource
 - **Modrinth:** https://modrinth.com/mod/respackopts
 - **CurseForge:** https://www.curseforge.com/minecraft/mc-mods/respackopts
 
+### Dependancies
+- [ClothConfigAPI](https://www.curseforge.com/minecraft/mc-mods/cloth-config/)
+- [LibJF](https://modrinth.com/mod/libjf)
+- [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu){Optional}
+
+- Canvas Shaders
+- Resource Packs
+- DataPacks
 
 ### Compatibility
 
